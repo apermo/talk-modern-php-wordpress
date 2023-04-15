@@ -1,0 +1,1 @@
+# Dummy plugin for the talk "Modern PHP for WordPress Plugins and Themes"
