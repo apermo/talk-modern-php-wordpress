@@ -1,0 +1,20 @@
+{
+	"name": "wcvie/excample",
+	"description": "IONOS Blog Plugin",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0-or-later",
+	"autoload": {
+		"classmap": [
+			"includes/"
+		],
+		"files": [
+			"requires/functions.php"
+		]
+	},
+	"authors": [
+		{
+			"name": "Christoph Daum",
+			"email": "christoph.daum@ionos.com"
+		}
+	]
+}
